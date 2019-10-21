@@ -13,7 +13,9 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
   },
   "dependencies": {
+    "@material-ui/styles": "^4.5.0",
     "gatsby": "^2.16.1",
+    "gatsby-plugin-material-ui": "^2.1.6",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   },
